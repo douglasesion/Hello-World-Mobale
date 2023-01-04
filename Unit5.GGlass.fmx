@@ -1,0 +1,9 @@
+inherited Form5_GGlass: TForm5_GGlass
+  ClientHeight = 215
+  ClientWidth = 427
+  DesignerMasterStyle = 0
+  inherited Label1: TLabel
+    Size.Width = 427.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+  end
+end

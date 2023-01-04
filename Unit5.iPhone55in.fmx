@@ -1,0 +1,9 @@
+inherited Form5_iPhone55in: TForm5_iPhone55in
+  ClientHeight = 716
+  ClientWidth = 414
+  DesignerMasterStyle = 0
+  inherited Label1: TLabel
+    Size.Width = 414.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+  end
+end

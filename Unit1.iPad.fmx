@@ -1,0 +1,13 @@
+inherited Form1_iPad: TForm1_iPad
+  ClientHeight = 1004
+  ClientWidth = 768
+  DesignerMasterStyle = 3
+  inherited Label1: TLabel
+    Size.Width = 768.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+  end
+  inherited Z: TGridPanelLayout
+    Size.Width = 768.000000000000000000
+    Size.Height = 987.000000000000000000
+  end
+end
